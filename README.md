@@ -1,5 +1,5 @@
 # batocera-TeknoParrot
-Extends Batocera and adds Teknoparrot support as an UNOFICIAL ADD-ON to BATOCERA.  
+Extends Batocera and adds Teknoparrot support as an ADD-ON to Batocera.  
 
 # About TeknoParrot
 TeknoParrot is a software package that allows you to play particular
